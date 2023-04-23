@@ -1,0 +1,59 @@
+.main-update-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: #9599e2;
+  background-image: linear-gradient(135deg, #9599e2 20%, #8bc6ec 80%);
+}
+
+.update-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  width: 70vw;
+  height: fit-content;
+  padding: 15px;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+}
+
+.update-container img {
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+  width: 150px;
+}
+
+#update-textfield-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#update-textfield {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+
+#update-failed-message {
+  font-family: "Poppins", sans-serif;
+  display: none;
+}
+
+#update-success-message {
+  font-family: "Poppins", sans-serif;
+  display: none;
+}
+
+#update-btn {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  width: fit-content;
+  height: fit-content;
+  align-self: center;
+}
