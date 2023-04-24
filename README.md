@@ -6,7 +6,7 @@
 
 ## About this project
 
-This is a personal project to showcase my use of ReactJS and JSON as a fake server.
+This is a personal project to showcase my use of ReactJS and JSON. I use the `json-server` npm package as a fake database to load and create data. The `Material UI` library is used for components.
 
 ## What doest it look like?
 
