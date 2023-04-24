@@ -1,6 +1,9 @@
 
 # A simple Login App
 
+
+![Logo](https://user-images.githubusercontent.com/55161130/233874800-9a48e38b-d4dc-4648-b47a-d8095c08742d.svg)
+
 ## About this project
 
 This is a personal project to showcase my use of ReactJS and JSON as a fake server.
