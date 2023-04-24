@@ -7,7 +7,7 @@ import Welcome from "./Pages/Welcome";
 function App() {
   return (
     <div className="App">
-      <Welcome />
+      <Update />
     </div>
   );
 }
